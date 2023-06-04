@@ -83,7 +83,12 @@ A motor with gear refers to a stepper motor coupled with a gear mechanism. This 
 LCD stands for Liquid Crystal Display. In the context of a delta 3D printer assembly, an LCD is a display screen integrated into the printer's control interface. It provides visual feedback and allows the user to interact with the printer by displaying menu options, settings, print progress, and other relevant information.
 ![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
 
+## OUTPUT
+![image](https://github.com/aadhithya15/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/121165812/f63e6a1e-d4dd-47c8-9c86-5be2d7ec1940)
+![image](https://github.com/aadhithya15/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/121165812/e8e6d37d-98ea-4053-9f1b-512d88975987)
 
+## Output:
+![image](https://github.com/aadhithya15/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/121165812/80e59cfb-5fe0-48bc-beff-9e0d4522356c)
 
 ### Name: Aadhithya M
 ### Register Number: 212222100001
