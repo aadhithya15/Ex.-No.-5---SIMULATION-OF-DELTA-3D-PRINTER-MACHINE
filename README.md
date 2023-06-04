@@ -85,8 +85,8 @@ LCD stands for Liquid Crystal Display. In the context of a delta 3D printer asse
 
 
 
-### Name: Yogeshvar M
-### Register Number: 212222230180
+### Name: Aadhithya M
+### Register Number: 212222100001
 
 ## Result: 
 Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
